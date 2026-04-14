@@ -11,8 +11,8 @@
 
 | Файл | Назначение |
 | :--- | :--- |
-| `cs2_high.reg` | Устанавливает высокий приоритет для **Counter-Strike 2** (`cs2.exe`) |
-| `deadlock_high.reg` | Устанавливает высокий приоритет для **Deadlock** (`deadlock.exe`) |
+| `cs2_high_priority.reg` | Устанавливает высокий приоритет для **Counter-Strike 2** (`cs2.exe`) |
+| `deadlock_high_priority.reg` | Устанавливает высокий приоритет для **Deadlock** (`deadlock.exe`) |
 
 ## 🚀 Быстрый старт
 
