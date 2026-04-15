@@ -19,8 +19,6 @@
 | [dota2_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/dota2_high.reg) | Dota 2 | dota2.exe |
 | [hoi4_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/hoi4_high.reg) | Hearts of Iron IV | hoi4.exe |
 
-> 💡 **Хотите другую игру?** Создайте [Issue](https://github.com/Groyz-soft/hight-game-priority/issues) с названием игры и процесса, и я добавлю скрипт.
-
 ---
 
 ## 🚀 Быстрый старт
