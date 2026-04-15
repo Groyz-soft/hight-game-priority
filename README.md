@@ -2,8 +2,7 @@
 
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![Registry](https://img.shields.io/badge/Edit-Registry-0078D6?style=flat-square&logo=windows)](https://learn.microsoft.com/ru-ru/windows/win32/sysinfo/registry)
-[![License](https://github.com/Groyz-soft/hight-game-priority/blob/main/LICENSE.md)](LICENSE)
-
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 **Автоматическое назначение высокого приоритета процессора для игр в Windows.**
 
 Этот репозиторий содержит `.reg` файлы, которые одним нажатием добавляют в реестр Windows настройку для запуска игр с **высоким приоритетом (High)**. Это позволяет игре получать больше процессорного времени, снижая количество микро-задержек (статтеров) и повышая стабильность FPS.
