@@ -2,7 +2,7 @@
 
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![Registry](https://img.shields.io/badge/Edit-Registry-0078D6?style=flat-square&logo=windows)](https://learn.microsoft.com/ru-ru/windows/win32/sysinfo/registry)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![License](https://github.com/Groyz-soft/hight-game-priority/blob/main/LICENSE.md)](LICENSE)
 
 **Автоматическое назначение высокого приоритета процессора для игр в Windows.**
 
