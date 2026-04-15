@@ -14,10 +14,12 @@
 
 | Файл | Игра | Процесс |
 | :--- | :--- | :--- |
-| [cs2_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/cs2_high.reg) | Counter-Strike 2 | cs2.exe |
-| [deadlock_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/deadlock_high.reg) | Deadlock | deadlock.exe |
-| [dota2_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/dota2_high.reg) | Dota 2 | dota2.exe |
-| [hoi4_high.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/hoi4_high.reg) | Hearts of Iron IV | hoi4.exe |
+| [cs2_high_priority.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/cs2_high_priority.reg) | Counter-Strike 2 | cs2.exe |
+| [deadlock_high_priority.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/deadlock_high_priority.reg) | Deadlock | deadlock.exe |
+| [dota2_high_priority.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/dota2_high_priority.reg) | Dota 2 | dota2.exe |
+| [hoi4_high_priority.reg](https://raw.githubusercontent.com/Groyz-soft/hight-game-priority/main/hoi4_high_priority.reg) | Hearts of Iron IV | hoi4.exe |
+
+> 💡 **Хотите другую игру?** Создайте [Issue](https://github.com/Groyz-soft/hight-game-priority/issues) с названием игры и процесса, и я добавлю скрипт.
 
 ---
 
